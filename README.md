@@ -12,8 +12,7 @@ client ส่งข้อความไปที่ server แล้ว server 
 
 **ผลการทดลอง:**
 
-(<img width="715" height="75" alt="image" src="https://github.com/user-attachments/assets/e0bd7e86-4bf7-4912-ad8d-9cbd6b157f10" />
-)
+(<img width="715" height="75" alt="image" src="https://github.com/user-attachments/assets/e0bd7e86-4bf7-4912-ad8d-9cbd6b157f10" />)
 
 ## 2. UDP Server (Docker)
 
@@ -24,5 +23,4 @@ server รับข้อความจาก client แล้วแสดง�
 
 **ผลการทดลอง:**
 
-(<img width="843" height="110" alt="image" src="https://github.com/user-attachments/assets/51c7166a-a2e5-43c6-98fc-ed87f5946a6a" />
-)
+(<img width="843" height="110" alt="image" src="https://github.com/user-attachments/assets/51c7166a-a2e5-43c6-98fc-ed87f5946a6a" />)
