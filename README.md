@@ -12,7 +12,8 @@ client ส่งข้อความไปที่ server แล้ว server 
 
 **ผลการทดลอง:**
 
-(วางภาพหน้าจอ TCP ตรงนี้)
+(<img width="715" height="75" alt="image" src="https://github.com/user-attachments/assets/e0bd7e86-4bf7-4912-ad8d-9cbd6b157f10" />
+)
 
 ## 2. UDP Server (Docker)
 
